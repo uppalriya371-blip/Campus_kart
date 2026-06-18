@@ -1,1 +1,2 @@
 # Campus_kart
+college marketplace platform that enables students to buy and sell products within campus. Sellers can list products for ₹10 with a 7-day validity, upload images, manage inventory, and renew expired listings. Buyers can browse products, place Cash on Delivery orders, and receive smart delivery estimates based on hostel blocks and time. The platform includes seller dashboards, admin controls, CSV order exports, product expiry automation, and dark/light mode support. 🚀
