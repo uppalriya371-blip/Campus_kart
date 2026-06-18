@@ -11,3 +11,4 @@ No part of this project, including but not limited to the source code, UI/UX des
 Unauthorized use, reproduction, or distribution of this software is strictly prohibited.
 
 
+Proprietary software. All rights reserved.
